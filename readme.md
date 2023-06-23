@@ -1,12 +1,12 @@
 
 ## What's needed?
-WSL
-pip
-pipenv
-python3
+1. WSL
+1. pip
+1. pipenv
+1. python3
 
 ## How to start
 In the cli:
 
-pipenv install
-make start
+1. pipenv install
+1. make start
